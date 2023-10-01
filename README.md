@@ -11,9 +11,6 @@
   <div>
   <img src="https://media.giphy.com/media/6ib6KPmkeAjDTxMxij/giphy.gif"/>
 </div>
-   <div>
-  <p>😂 Here is a random joke that'll make you laugh!<br/><br/> <img src="https://readme-jokes.vercel.app/api" alt="joke"/></p>
- </div>
  </body>
 </html>
 <!--
