@@ -1,4 +1,3 @@
-### Hi there 👋
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -7,7 +6,7 @@
 </head>
  <body>
        <div>
-       <h1>Hi 👋, I'm Bindu</h1>
+       <h1>Hi there 👋, I'm Bindu</h1>
        </div>
   <div>
   <img src="https://media.giphy.com/media/6ib6KPmkeAjDTxMxij/giphy.gif"/>
